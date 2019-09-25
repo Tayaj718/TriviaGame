@@ -1,3 +1,12 @@
 body {
     background-image: url("../images/dc-vs-marvel1.jpg")
+   
+}
+
+.back-container {
+    background-color: gold;
+}
+.title {
+    color: white;
+    text-align: center;
 }
